@@ -1697,8 +1697,8 @@ Goodbye`
 exports.source = () =>{
 return`*------「 SOURCE CODE 」 ------*
 
-Base : https://github.com/DikaArdnt/Hisoka-Morou
-Recode : https://youtube.com/playlist?list=PLFCglBzFPHG7vSQaa9S3P8yfla_d9w-2-
+Base : https://github.com/Hanbotrill/Alphabot-md
+Recode : https://youtu.be/KkUGkfUIgH4
 `
 }
 exports.tos = (ownernomer) => {
@@ -1707,6 +1707,9 @@ exports.tos = (ownernomer) => {
 
 Hai kak ☺️ 
 Kalian bisa mendukung saya agar bot ini tetap up to date dengan cara donasi
+(KALAU BOT MATI JANGAN SALAHIN GUA, ITU SALAH KALIAN KARENA GA DONASI)
+
+Donasi ke sini: https://saweria.co/Username0010
 
 Berapapun donasi kalian akan sangat berarti 👍
 Buat kalian yang sudah donasi bisa kirim bukti
