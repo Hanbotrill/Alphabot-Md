@@ -675,7 +675,7 @@ saya ${botname}, bot ini adalah Beta Multi-Device Whatsapp.
 exports.listMenu = (time, salam, pushname, prefix) => {
     return `*Selamat ${salam} ${pushname}*
 *⌚Time Server : ${time}*
-*📚 List-Menu Alphabot-Md :*
+*📚 List-Menu HanBot :*
 
 ╭─❒ 「 Bot Info 」 
 ├ ${prefix}owner
@@ -1642,14 +1642,14 @@ exports.listMenu = (time, salam, pushname, prefix) => {
 ╭─❒ 「 TqTo 」 
 ├ My God
 ├ My Parents
-├ Fatih A.
-├ Ferdi
-├ DikaArdnt
-├ Mhankbarbar
-├ Nurutomo
-├ Rashid
-├ ZeeoneOfc
-├ Penyedia Module
+├ HanBot
+├ 
+├ All Creator 
+├ 
+├
+├ 
+├ 
+├ 
 ╰❒ And All Support
     `
 }
@@ -1691,7 +1691,7 @@ exports.welcome = () =>{
 ╰❒ 𝖯𝖺𝗍𝗎𝗁𝗂 𝗋𝗎𝗅𝖾𝗌 𝗀𝗋𝗎𝗉 𝗒𝖺 𝗄𝖺k ~`
 }
 exports.leave = () =>{
-	return`Yah kok out 😣 Mental aman kan kak >.<
+	return`Yah kok out POTATO YA DEK??😔🙏
 Goodbye`
 }
 exports.source = () =>{
@@ -2348,14 +2348,14 @@ exports.tqto = () =>{
 	return`╭─❒ 「 TqTo 」 
 ├ My God
 ├ My Parents
-├ Fatih A.
-├ Ferdi
-├ DikaArdnt
-├ Mhankbarbar
-├ Nurutomo
-├ Rashid
-├ ZeeoneOfc
-├ Penyedia Module
+├ HanBot
+├ 
+├ 
+├ 
+├ 
+├ 
+├ 
+├ 
 ╰❒ And All Support
 `
 }
