@@ -15,7 +15,7 @@ global.APIKeys = {
 // setting 
 global.autoread = false // auto read message
 global.autobio = true 
-global.userRegister = true 
+global.userRegister = false 
 
 //language
 //Available in indonesia , english & spanyol 
@@ -34,7 +34,7 @@ global.email = "vibesonly365@gmail.com" //bebas
 global.region = "Indonesia" //bebas
 global.timezone = 'Asia/Jakarta' //  timezone wib
 global.premium = ['6288271305961'] //premium user
-global.owner = ["6288271305961","6288271305961"] //ganti agar fitur owner bisa di gunakan
+global.owner = ["16062089438","6288271305961"] //ganti agar fitur owner bisa di gunakan
 global.ownernomer = "6288271305961" // nomor wa kalian
 global.ownernomerr = "+6288271305961" //nmr wa kalian
 global.thumbnail = "./image/lol.jpg" // ini lol.jpg adalah nama foto di folder image. untuk foto bot
