@@ -1068,77 +1068,6 @@ exports.listMenu = (time, salam, pushname, prefix) => {
 ├ ${prefix}addstik
 ╰❒ ${prefix}liststik
 
-╭─❒ 「 Nsfw & Sfw 」
-├ ${prefix}cuddle
-├ ${prefix}foxgirl
-├ ${prefix}kemonomimi2
-├ ${prefix}woof
-├ ${prefix}holo2
-├ ${prefix}hug
-├ ${prefix}kiss
-├ ${prefix}lizard
-├ ${prefix}meowi
-├ ${prefix}neko2
-├ ${prefix}pat
-├ ${prefix}poke
-├ ${prefix}slap
-├ ${prefix}tickle
-├ ${prefix}baka
-├ ${prefix}smug
-├ ${prefix}neko_sfw
-├ ${prefix}hentai
-├ ${prefix}hentai_gif
-├ ${prefix}spank
-├ ${prefix}blowjob
-├ ${prefix}cumarts
-├ ${prefix}eroyuri
-├ ${prefix}eroneko
-├ ${prefix}erokemonomimi
-├ ${prefix}erokitsune
-├ ${prefix}ero
-├ ${prefix}feet
-├ ${prefix}erofeet
-├ ${prefix}feetgif
-├ ${prefix}femdom
-├ ${prefix}futanari
-├ ${prefix}holoero
-├ ${prefix}holo
-├ ${prefix}keta
-├ ${prefix}kitsune
-├ ${prefix}kemonomimi
-├ ${prefix}pussyart
-├ ${prefix}pussywankgif
-├ ${prefix}girl_solo
-├ ${prefix}girl_solo_gif
-├ ${prefix}tits
-├ ${prefix}trap
-├ ${prefix}yuri
-├ ${prefix}avatar2
-├ ${prefix}anal
-├ ${prefix}bj
-├ ${prefix}boobs
-├ ${prefix}classic
-├ ${prefix}cumsluts
-├ ${prefix}kuni
-├ ${prefix}lesbian
-├ ${prefix}neko
-├ ${prefix}neko_gif
-├ ${prefix}ahegao
-├ ${prefix}bdsm
-├ ${prefix}cuckold
-├ ${prefix}cum
-├ ${prefix}foot
-├ ${prefix}gangbang
-├ ${prefix}glasses
-├ ${prefix}jahy
-├ ${prefix}masturbation
-├ ${prefix}nsfw_neko
-├ ${prefix}orgy
-├ ${prefix}panties
-├ ${prefix}tentacles
-├ ${prefix}thighs
-╰❒ ${prefix}zettai
-
 ╭─❒ 「 Ephoto360 Menu 」
 ├ ${prefix}youtubegold
 ├ ${prefix}youtubesilver
@@ -1643,13 +1572,7 @@ exports.listMenu = (time, salam, pushname, prefix) => {
 ├ My God
 ├ My Parents
 ├ HanBot
-├ 
-├ All Creator 
-├ 
-├
-├ 
-├ 
-├ 
+├ All creator
 ╰❒ And All Support
     `
 }
@@ -1691,7 +1614,7 @@ exports.welcome = () =>{
 ╰❒ 𝖯𝖺𝗍𝗎𝗁𝗂 𝗋𝗎𝗅𝖾𝗌 𝗀𝗋𝗎𝗉 𝗒𝖺 𝗄𝖺k ~`
 }
 exports.leave = () =>{
-	return`Yah kok out POTATO YA DEK??😔🙏
+	return`Yah kok out??😔🙏
 Goodbye`
 }
 exports.source = () =>{
@@ -2011,82 +1934,6 @@ exports.ranime = (prefix) =>{
 `
 }
 
-exports.nsfw = (prefix) =>{
-	return`╭─❒ 「 Nsfw & Sfw 」
-├ ${prefix}cuddle
-├ ${prefix}feed
-├ ${prefix}foxgirl
-├ ${prefix}kemonomimi2
-├ ${prefix}woof
-├ ${prefix}holo2
-├ ${prefix}hug
-├ ${prefix}kiss
-├ ${prefix}lizard
-├ ${prefix}meowi
-├ ${prefix}neko2
-├ ${prefix}pat
-├ ${prefix}poke
-├ ${prefix}slap
-├ ${prefix}tickle
-├ ${prefix}baka
-├ ${prefix}smug
-├ ${prefix}neko_sfw
-├ ${prefix}hentai
-├ ${prefix}hentai_gif
-├ ${prefix}spank
-├ ${prefix}blowjob
-├ ${prefix}cumarts
-├ ${prefix}eroyuri
-├ ${prefix}eroneko
-├ ${prefix}erokemonomimi
-├ ${prefix}erokitsune
-├ ${prefix}ero
-├ ${prefix}feet
-├ ${prefix}erofeet
-├ ${prefix}feetgif
-├ ${prefix}femdom
-├ ${prefix}futanari
-├ ${prefix}hentai
-├ ${prefix}holoero
-├ ${prefix}holo
-├ ${prefix}keta
-├ ${prefix}kitsune
-├ ${prefix}kemonomimi
-├ ${prefix}pussyart
-├ ${prefix}pussywankgif
-├ ${prefix}girl_solo
-├ ${prefix}girl_solo_gif
-├ ${prefix}tits
-├ ${prefix}trap
-├ ${prefix}yuri
-├ ${prefix}avatar2
-├ ${prefix}anal
-├ ${prefix}bj
-├ ${prefix}boobs
-├ ${prefix}classic
-├ ${prefix}cumsluts
-├ ${prefix}kuni
-├ ${prefix}lesbian
-├ ${prefix}neko
-├ ${prefix}neko_gif
-├ ${prefix}ahegao
-├ ${prefix}bdsm
-├ ${prefix}cuckold
-├ ${prefix}cum
-├ ${prefix}foot
-├ ${prefix}gangbang
-├ ${prefix}glasses
-├ ${prefix}jahy
-├ ${prefix}masturbation
-├ ${prefix}nsfw_neko
-├ ${prefix}orgy
-├ ${prefix}panties
-├ ${prefix}tentacles
-├ ${prefix}thighs
-╰❒ ${prefix}zettai
-`
-}
-
 exports.textpro = (prefix) =>{
 	return`╭─❒ 「 Textpro Menu 」
 ├ ${prefix}halloween2 text|text2
@@ -2349,13 +2196,6 @@ exports.tqto = () =>{
 ├ My God
 ├ My Parents
 ├ HanBot
-├ 
-├ 
-├ 
-├ 
-├ 
-├ 
-├ 
 ╰❒ And All Support
 `
 }
